@@ -15,3 +15,30 @@ Jupyter Notebook
 Plotly for interactive charts
 Geospatial libraries for mapping (e.g., Folium, GeoPandas)
 Machine Learning libraries for predictive analysis (e.g., Scikit-learn)
+
+## Data Sources
+The crime data is sourced from various public datasets, including state crime records and temporal data.
+
+## Visualizations
+Crime Distribution Across the USA
+This heatmap displays the distribution of crime across different states in the USA.
+
+## Temporal Crime Trends
+A bar chart showing the frequency of different crime types over time.
+
+## Crime by State
+A tabular representation of crime frequency for various states, categorized by crime type.
+
+## Crime Rate Prediction
+A pie chart predicting the probability of crime rates across different states.
+
+## Usage
+This project can be used to:
+Analyze crime trends by state and year.
+Predict future crime patterns based on historical data.
+Visualize crime data across different categories for research or decision-making.
+
+## Future Work
+Incorporate additional crime data to improve the predictive model.
+Extend the project to include real-time crime data analysis.
+Implement advanced machine learning models for more accurate predictions.
